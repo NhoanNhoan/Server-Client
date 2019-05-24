@@ -1,0 +1,7 @@
+﻿  Client.cpp
+  LoginForm.cpp
+C:\Users\LENOVO IDEAPAD\source\repos\Client Project\Client Project\LoginForm.h(152): warning C4244: '=': conversion from 'wchar_t' to 'unsigned char', possible loss of data
+  SocketConnect.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Client Project.vcxproj -> C:\Users\LENOVO IDEAPAD\source\repos\Client Project\Release\Client Project.exe
